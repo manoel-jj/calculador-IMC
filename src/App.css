@@ -1,0 +1,45 @@
+.App {
+    margin: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(31, 31, 145);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(31, 31, 145);
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+p {
+    font-weight: bold;
+    color: rgb(31, 31, 145);
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(31, 31, 145);
+    font-weight: bold;
+
+}
+
